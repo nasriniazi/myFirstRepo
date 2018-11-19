@@ -1,1 +1,1 @@
-Var age = 44;
+Var age = 44;Var num = 50;
